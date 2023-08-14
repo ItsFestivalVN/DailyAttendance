@@ -1,0 +1,6 @@
+name: DailyAttendance
+api: 5.0.0
+version: 1.0.0
+main: ItsFestivalVN\DailyAttendance
+author: ItsFestivalVN
+description: "Attendance Rewards Will Be Given For Players Who Just Joined The Server"
